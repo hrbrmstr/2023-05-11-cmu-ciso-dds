@@ -4,11 +4,11 @@
 
 ## Class Presentation
 
-*files are huge*
+*NOTE: files are huge.*
 
-- [heinz-ciso-data-driven-security.key.zip](heinz-ciso-data-driven-security.key.zip)
-- [heinz-ciso-data-driven-security.pdf.zip](heinz-ciso-data-driven-security.pdf.zip)
-- [heinz-ciso-data-driven-security.pptx.zip](heinz-ciso-data-driven-security.pptx.zip)
+- [Keynote](heinz-ciso-data-driven-security.key.zip)
+- [PDF](heinz-ciso-data-driven-security.pdf.zip)
+- [PowerPoint](heinz-ciso-data-driven-security.pptx.zip)
 
 ## Useful Links
 
@@ -44,9 +44,25 @@
 - [Building A Data Driven Security Strategy](gabe-basset-dds.pdf)
 - [Taking a data-driven approach to cyber security -
   NCSC.GOV.UK](https://www.ncsc.gov.uk/blog-post/taking-a-data-driven-approach-to-cyber-security)
-  - [BinaryEdge](https://www.binaryedge.io/) (Freemium ASM)
+- [BinaryEdge](https://www.binaryedge.io/) (Freemium ASM)
 - [GreyNoise Visualizer](https://viz.greynoise.io/) (Freemium threat
   intelligence)
+
+## Useful Tools
+
+- [RStudio Desktop - Posit](https://posit.co/download/rstudio-desktop/)
+- [Quarto](https://quarto.org/)
+- [Project Jupyter \| Home](https://jupyter.org/)
+- [jupyterlab/jupyterlab: JupyterLab computational
+  environment.](https://github.com/jupyterlab/jupyterlab)
+- [An in-process SQL OLAP database management system -
+  DuckDB](https://duckdb.org/)
+- [Polars](https://www.pola.rs/)
+- [Visibility Across Space and Time \| VAST](https://vast.io/)
+- [Wazuh · The Open Source Security Platform](https://wazuh.com/)
+- [Announcing the free Tines Community Edition \|
+  Tines](https://www.tines.com/blog/announcing-the-tines-community-edition)
+- [elastic](https://github.com/elastic)
 
 ## My Contact Info
 
