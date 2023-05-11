@@ -29,7 +29,7 @@ _NOTE: files are huge._
 - [Building A Data Driven Security Strategy](gabe-basset-dds.pdf)
 - [Taking a data-driven approach to cyber security - NCSC.GOV.UK](https://www.ncsc.gov.uk/blog-post/taking-a-data-driven-approach-to-cyber-security)
 - [BinaryEdge](https://www.binaryedge.io/) (Freemium ASM)
-- [GreyNoise Visualizer](https://viz.greynoise.io/) (Freemium threat intelligence)
+- [GreyNoise Visualizer](https://viz.greynoise.io/) (Freemium threat intel)
 
 ## Useful Tools
 
