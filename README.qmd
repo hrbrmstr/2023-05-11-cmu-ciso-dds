@@ -8,10 +8,9 @@ format: gfm
 
 _NOTE: files are huge._
 
-- [Keynote](heinz-ciso-data-driven-security.key.zip)
-- [PDF](heinz-ciso-data-driven-security.pdf.zip)
-- [PowerPoint](heinz-ciso-data-driven-security.pptx.zip)
-
+- [Keynote](https://rud.is/dl/heinz-ciso-data-driven-security.key.zip)
+- [PDF](https://rud.is/dl/heinz-ciso-data-driven-security.pdf.zip)
+- [PowerPoint](https://rud.is/dl/heinz-ciso-data-driven-security.pptx.zip)
 
 ## Useful Links
 
